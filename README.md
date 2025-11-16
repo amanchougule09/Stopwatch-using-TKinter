@@ -16,6 +16,11 @@ Designed with a clean interface and smooth button controls, it’s perfect for s
 
 ---
 
+### Output
+![Output](Screenshots/Output.png)
+
+---
+
 ## 🧰 Tech Stack
 - **Language:** Python  
 - **Library:** Tkinter  
